@@ -64,9 +64,3 @@ position:sticky;top:0;height:100vh;overflow-y:auto
   .left,.center,.right{width:100%;border:none;position:static;height:auto}
   .footer{flex-direction:column;gap:15px}
 }
-
-@media (max-width:500px){
-  .left{display:none}
-  .right{display:none}
-  .nav{display:none}
-}
